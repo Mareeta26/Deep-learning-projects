@@ -2,7 +2,7 @@
 Deep learning course
 
 1. Object Detection
-Learn to partially re-train a convolutional neural network adept at object detection (localization and classification). The model should be re-trained to only detect two kinds of objects: cars and trucks.
+Learn a mode to re-train a convolutional neural network adept at object detection. The model should be re-trained to only detect two kinds of objects: cars and trucks.
 
 The pretrained model ( yolov5m.pt) trained on COCO dataset is used and then fine-tuned for detecting 2 objects- cars and trucks.
 
