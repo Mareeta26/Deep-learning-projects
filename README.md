@@ -1,4 +1,4 @@
-# COEN-342
+
 Deep learning course
 
 1. Object Detection
