@@ -1,0 +1,8 @@
+#number of classes
+train: ../pr1/images/train/
+val : ../pr1/images/val/
+test: ../pr1/images/test
+
+nc: 2
+
+names: ['car','truck']
